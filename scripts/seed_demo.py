@@ -1,12 +1,28 @@
 from pathlib import Path
 
 from backend.app.services.document_service import process_document
+from backend.app.database.database import SessionLocal
+from backend.app.database.models import DocumentAnalysis
 
 
 DATA_DIR = Path("data/raw/documents")
 
 
+def database_has_data():
+    db = SessionLocal()
+
+    try:
+        return db.query(DocumentAnalysis).count() > 0
+    finally:
+        db.close()
+
+
 def seed_demo():
+    if database_has_data():
+        print("Demo database already contains data.")
+        print("Skipping demo seeding.")
+        return
+
     files = sorted(
         [
             *DATA_DIR.glob("*.txt"),
