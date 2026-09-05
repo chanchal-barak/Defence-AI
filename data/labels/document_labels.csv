@@ -1,0 +1,193 @@
+document_id,filename,category
+DOC-0001,emergency_001.txt,Emergency
+DOC-0002,emergency_002.txt,Emergency
+DOC-0003,emergency_003.txt,Emergency
+DOC-0004,emergency_004.txt,Emergency
+DOC-0005,emergency_005.txt,Emergency
+DOC-0006,emergency_006.txt,Emergency
+DOC-0007,emergency_007.txt,Emergency
+DOC-0008,emergency_008.txt,Emergency
+DOC-0009,emergency_009.txt,Emergency
+DOC-0010,emergency_010.txt,Emergency
+DOC-0011,emergency_011.txt,Emergency
+DOC-0012,emergency_012.txt,Emergency
+DOC-0013,emergency_013.txt,Emergency
+DOC-0014,emergency_014.txt,Emergency
+DOC-0015,emergency_015.txt,Emergency
+DOC-0016,emergency_016.txt,Emergency
+DOC-0017,emergency_017.txt,Emergency
+DOC-0018,emergency_018.txt,Emergency
+DOC-0019,emergency_019.txt,Emergency
+DOC-0020,emergency_020.txt,Emergency
+DOC-0021,technical_021.txt,Technical
+DOC-0022,technical_022.txt,Technical
+DOC-0023,technical_023.txt,Technical
+DOC-0024,technical_024.txt,Technical
+DOC-0025,technical_025.txt,Technical
+DOC-0026,technical_026.txt,Technical
+DOC-0027,technical_027.txt,Technical
+DOC-0028,technical_028.txt,Technical
+DOC-0029,technical_029.txt,Technical
+DOC-0030,technical_030.txt,Technical
+DOC-0031,technical_031.txt,Technical
+DOC-0032,technical_032.txt,Technical
+DOC-0033,technical_033.txt,Technical
+DOC-0034,technical_034.txt,Technical
+DOC-0035,technical_035.txt,Technical
+DOC-0036,technical_036.txt,Technical
+DOC-0037,technical_037.txt,Technical
+DOC-0038,technical_038.txt,Technical
+DOC-0039,technical_039.txt,Technical
+DOC-0040,technical_040.txt,Technical
+DOC-0041,logistics_041.txt,Logistics
+DOC-0042,logistics_042.txt,Logistics
+DOC-0043,logistics_043.txt,Logistics
+DOC-0044,logistics_044.txt,Logistics
+DOC-0045,logistics_045.txt,Logistics
+DOC-0046,logistics_046.txt,Logistics
+DOC-0047,logistics_047.txt,Logistics
+DOC-0048,logistics_048.txt,Logistics
+DOC-0049,logistics_049.txt,Logistics
+DOC-0050,logistics_050.txt,Logistics
+DOC-0051,logistics_051.txt,Logistics
+DOC-0052,logistics_052.txt,Logistics
+DOC-0053,logistics_053.txt,Logistics
+DOC-0054,logistics_054.txt,Logistics
+DOC-0055,logistics_055.txt,Logistics
+DOC-0056,logistics_056.txt,Logistics
+DOC-0057,logistics_057.txt,Logistics
+DOC-0058,logistics_058.txt,Logistics
+DOC-0059,logistics_059.txt,Logistics
+DOC-0060,logistics_060.txt,Logistics
+DOC-0061,infrastructure_061.txt,Infrastructure
+DOC-0062,infrastructure_062.txt,Infrastructure
+DOC-0063,infrastructure_063.txt,Infrastructure
+DOC-0064,infrastructure_064.txt,Infrastructure
+DOC-0065,infrastructure_065.txt,Infrastructure
+DOC-0066,infrastructure_066.txt,Infrastructure
+DOC-0067,infrastructure_067.txt,Infrastructure
+DOC-0068,infrastructure_068.txt,Infrastructure
+DOC-0069,infrastructure_069.txt,Infrastructure
+DOC-0070,infrastructure_070.txt,Infrastructure
+DOC-0071,infrastructure_071.txt,Infrastructure
+DOC-0072,infrastructure_072.txt,Infrastructure
+DOC-0073,infrastructure_073.txt,Infrastructure
+DOC-0074,infrastructure_074.txt,Infrastructure
+DOC-0075,infrastructure_075.txt,Infrastructure
+DOC-0076,infrastructure_076.txt,Infrastructure
+DOC-0077,infrastructure_077.txt,Infrastructure
+DOC-0078,infrastructure_078.txt,Infrastructure
+DOC-0079,infrastructure_079.txt,Infrastructure
+DOC-0080,infrastructure_080.txt,Infrastructure
+DOC-0081,public_safety_081.txt,Public Safety
+DOC-0082,public_safety_082.txt,Public Safety
+DOC-0083,public_safety_083.txt,Public Safety
+DOC-0084,public_safety_084.txt,Public Safety
+DOC-0085,public_safety_085.txt,Public Safety
+DOC-0086,public_safety_086.txt,Public Safety
+DOC-0087,public_safety_087.txt,Public Safety
+DOC-0088,public_safety_088.txt,Public Safety
+DOC-0089,public_safety_089.txt,Public Safety
+DOC-0090,public_safety_090.txt,Public Safety
+DOC-0091,public_safety_091.txt,Public Safety
+DOC-0092,public_safety_092.txt,Public Safety
+DOC-0093,public_safety_093.txt,Public Safety
+DOC-0094,public_safety_094.txt,Public Safety
+DOC-0095,public_safety_095.txt,Public Safety
+DOC-0096,public_safety_096.txt,Public Safety
+DOC-0097,public_safety_097.txt,Public Safety
+DOC-0098,public_safety_098.txt,Public Safety
+DOC-0099,public_safety_099.txt,Public Safety
+DOC-0100,public_safety_100.txt,Public Safety
+DOC-0101,administrative_101.txt,Administrative
+DOC-0102,administrative_102.txt,Administrative
+DOC-0103,administrative_103.txt,Administrative
+DOC-0104,administrative_104.txt,Administrative
+DOC-0105,administrative_105.txt,Administrative
+DOC-0106,administrative_106.txt,Administrative
+DOC-0107,administrative_107.txt,Administrative
+DOC-0108,administrative_108.txt,Administrative
+DOC-0109,administrative_109.txt,Administrative
+DOC-0110,administrative_110.txt,Administrative
+DOC-0111,administrative_111.txt,Administrative
+DOC-0112,administrative_112.txt,Administrative
+DOC-0113,administrative_113.txt,Administrative
+DOC-0114,administrative_114.txt,Administrative
+DOC-0115,administrative_115.txt,Administrative
+DOC-0116,administrative_116.txt,Administrative
+DOC-0117,administrative_117.txt,Administrative
+DOC-0118,administrative_118.txt,Administrative
+DOC-0119,administrative_119.txt,Administrative
+DOC-0120,administrative_120.txt,Administrative
+DOC-0121,augmented_emergency_121.txt,Emergency
+DOC-0122,augmented_emergency_122.txt,Emergency
+DOC-0123,augmented_emergency_123.txt,Emergency
+DOC-0124,augmented_emergency_124.txt,Emergency
+DOC-0125,augmented_emergency_125.txt,Emergency
+DOC-0126,augmented_emergency_126.txt,Emergency
+DOC-0127,augmented_emergency_127.txt,Emergency
+DOC-0128,augmented_emergency_128.txt,Emergency
+DOC-0129,augmented_emergency_129.txt,Emergency
+DOC-0130,augmented_emergency_130.txt,Emergency
+DOC-0131,augmented_emergency_131.txt,Emergency
+DOC-0132,augmented_emergency_132.txt,Emergency
+DOC-0133,augmented_technical_133.txt,Technical
+DOC-0134,augmented_technical_134.txt,Technical
+DOC-0135,augmented_technical_135.txt,Technical
+DOC-0136,augmented_technical_136.txt,Technical
+DOC-0137,augmented_technical_137.txt,Technical
+DOC-0138,augmented_technical_138.txt,Technical
+DOC-0139,augmented_technical_139.txt,Technical
+DOC-0140,augmented_technical_140.txt,Technical
+DOC-0141,augmented_technical_141.txt,Technical
+DOC-0142,augmented_technical_142.txt,Technical
+DOC-0143,augmented_technical_143.txt,Technical
+DOC-0144,augmented_technical_144.txt,Technical
+DOC-0145,augmented_logistics_145.txt,Logistics
+DOC-0146,augmented_logistics_146.txt,Logistics
+DOC-0147,augmented_logistics_147.txt,Logistics
+DOC-0148,augmented_logistics_148.txt,Logistics
+DOC-0149,augmented_logistics_149.txt,Logistics
+DOC-0150,augmented_logistics_150.txt,Logistics
+DOC-0151,augmented_logistics_151.txt,Logistics
+DOC-0152,augmented_logistics_152.txt,Logistics
+DOC-0153,augmented_logistics_153.txt,Logistics
+DOC-0154,augmented_logistics_154.txt,Logistics
+DOC-0155,augmented_logistics_155.txt,Logistics
+DOC-0156,augmented_logistics_156.txt,Logistics
+DOC-0157,augmented_infrastructure_157.txt,Infrastructure
+DOC-0158,augmented_infrastructure_158.txt,Infrastructure
+DOC-0159,augmented_infrastructure_159.txt,Infrastructure
+DOC-0160,augmented_infrastructure_160.txt,Infrastructure
+DOC-0161,augmented_infrastructure_161.txt,Infrastructure
+DOC-0162,augmented_infrastructure_162.txt,Infrastructure
+DOC-0163,augmented_infrastructure_163.txt,Infrastructure
+DOC-0164,augmented_infrastructure_164.txt,Infrastructure
+DOC-0165,augmented_infrastructure_165.txt,Infrastructure
+DOC-0166,augmented_infrastructure_166.txt,Infrastructure
+DOC-0167,augmented_infrastructure_167.txt,Infrastructure
+DOC-0168,augmented_infrastructure_168.txt,Infrastructure
+DOC-0169,augmented_public_safety_169.txt,Public Safety
+DOC-0170,augmented_public_safety_170.txt,Public Safety
+DOC-0171,augmented_public_safety_171.txt,Public Safety
+DOC-0172,augmented_public_safety_172.txt,Public Safety
+DOC-0173,augmented_public_safety_173.txt,Public Safety
+DOC-0174,augmented_public_safety_174.txt,Public Safety
+DOC-0175,augmented_public_safety_175.txt,Public Safety
+DOC-0176,augmented_public_safety_176.txt,Public Safety
+DOC-0177,augmented_public_safety_177.txt,Public Safety
+DOC-0178,augmented_public_safety_178.txt,Public Safety
+DOC-0179,augmented_public_safety_179.txt,Public Safety
+DOC-0180,augmented_public_safety_180.txt,Public Safety
+DOC-0181,augmented_administrative_181.txt,Administrative
+DOC-0182,augmented_administrative_182.txt,Administrative
+DOC-0183,augmented_administrative_183.txt,Administrative
+DOC-0184,augmented_administrative_184.txt,Administrative
+DOC-0185,augmented_administrative_185.txt,Administrative
+DOC-0186,augmented_administrative_186.txt,Administrative
+DOC-0187,augmented_administrative_187.txt,Administrative
+DOC-0188,augmented_administrative_188.txt,Administrative
+DOC-0189,augmented_administrative_189.txt,Administrative
+DOC-0190,augmented_administrative_190.txt,Administrative
+DOC-0191,augmented_administrative_191.txt,Administrative
+DOC-0192,augmented_administrative_192.txt,Administrative

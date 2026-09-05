@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.streamlit/secrets.toml
+
+# Local database
+*.db
+
+# Processed/generated data
+data/processed/*
+
+# Keep synthetic demo documents in Git
+!data/raw/
+!data/raw/documents/
+!data/raw/documents/*.txt
+!data/raw/documents/*.pdf
+
+# IDE
+.idea/
+.vscode/
