@@ -9,8 +9,6 @@ spacy
 scikit-learn
 pandas
 numpy
-sentence-transformers
-google-genai
 sqlalchemy
 pydantic-settings
 python-dotenv
