@@ -16,3 +16,4 @@ streamlit
 requests
 plotly
 joblib
+reportlab
