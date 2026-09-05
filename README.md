@@ -2,26 +2,34 @@
 
 ### AI-Powered Document Intelligence Platform
 
-DefenceDoc AI is an end-to-end document intelligence system that combines
-**Natural Language Processing, Machine Learning, Risk Assessment, and
-Anomaly Detection** to automatically analyze PDF and TXT documents.
+DefenceDoc AI is an end-to-end document intelligence system that combines **Natural Language Processing, Machine Learning, Risk Assessment, and Anomaly Detection** to automatically analyze PDF and TXT documents.
 
-The platform can classify documents, assess risk, detect anomalous documents,
-extract important information, store analysis results, visualize trends, and
-generate downloadable reports.
+The platform can classify documents, assess risk, detect anomalous documents, extract important information, store analysis results, visualize trends, and generate downloadable reports.
 
-> **Demo Notice:** The demonstration dataset is synthetic and is intended to
-> demonstrate the application's architecture and capabilities. It does not
-> represent real defence or classified data.
+> **Demo Notice:** The demonstration dataset is synthetic and is intended to demonstrate the application's architecture and capabilities. It does not represent real defence or classified data.
 
 ---
 
 ## 🚀 Live Demo
 
+**Live Application:**  
+https://defencedoc-ai.streamlit.app/
+
+**Backend API:**  
+https://defence-ai-x19o.onrender.com/
+
+**API Documentation:**  
+https://defence-ai-x19o.onrender.com/docs
+
+> The application includes a synthetic demonstration workspace with **192 documents across 6 document categories**.
+
+---
+
+## 📸 Application Screenshots
+
 ### 🏠 Dashboard
 
-The main dashboard introduces the document intelligence pipeline,
-available modules, machine learning capabilities, and demo workspace.
+The main dashboard introduces the document intelligence pipeline, available modules, machine learning capabilities, and demo workspace.
 
 ![DefenceDoc AI Dashboard](docs/screenshots/dashboard1.png)
 
@@ -29,9 +37,7 @@ available modules, machine learning capabilities, and demo workspace.
 
 ### 📄 Single Document Analysis
 
-A document can be analyzed through the complete pipeline including
-classification, confidence scoring, risk assessment, anomaly detection,
-and information extraction.
+A document can be analyzed through the complete pipeline including classification, confidence scoring, risk assessment, anomaly detection, and information extraction.
 
 ![Single Document Analysis](docs/screenshots/Single_Analysis1.png)
 
@@ -41,8 +47,7 @@ and information extraction.
 
 ### 📦 Batch Document Analysis
 
-Multiple documents can be processed in a single operation with
-per-document processing results.
+Multiple documents can be processed in a single operation with per-document processing results.
 
 ![Batch Document Analysis](docs/screenshots/Batch_analysis1.png)
 
@@ -50,8 +55,7 @@ per-document processing results.
 
 ### 📚 Document History
 
-Previously analyzed documents can be searched, filtered, and inspected
-through the persistent document history.
+Previously analyzed documents can be searched, filtered, and inspected through persistent document history.
 
 ![Document History](docs/screenshots/doc_history2.png)
 
@@ -59,8 +63,7 @@ through the persistent document history.
 
 ### 📊 Analytics Dashboard
 
-Interactive analytics provide an overview of document categories,
-priority levels, risk scores, and detected anomalies.
+Interactive analytics provide an overview of document categories, priority levels, risk scores, and detected anomalies.
 
 ![Analytics Dashboard](docs/screenshots/analytics2.png)
 
@@ -124,41 +127,42 @@ Generate analysis reports in:
 ## 🧠 AI/ML Pipeline
 
 ```text
-                    Document
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ Text Extraction │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ NLP Extraction  │
-              │ Entities / Info │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ Classification  │
-              │ TF-IDF + SVM    │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ Risk Assessment │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │    Anomaly      │
-              │    Detection    │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ SQLite Database │
-              └────────┬────────┘
-                       │
-              ┌────────┴────────┐
-              ▼                 ▼
-         📊 Analytics       📥 Reports
+                         Document
+                            │
+                            ▼
+                  ┌─────────────────┐
+                  │ Text Extraction │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ NLP Extraction  │
+                  │ Entities / Info │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ Classification  │
+                  │  TF-IDF + SVM   │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ Risk Assessment │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │    Anomaly      │
+                  │    Detection    │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ SQLite Database │
+                  └────────┬────────┘
+                           │
+                    ┌──────┴──────┐
+                    ▼             ▼
+               Analytics       Reports
+
